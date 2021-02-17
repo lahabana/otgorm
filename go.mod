@@ -1,4 +1,4 @@
-module github.com/jdefrank/otgorm
+module github.com/lahabana/otgorm
 
 go 1.13
 
